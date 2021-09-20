@@ -18,7 +18,7 @@ export PORKBUN_SECRET_KEY=123456
 
 Run the python script with the following --domain and --subdomain flags
 ```
-python main.py -d example.cpm -s test
+python main.py -d example.com -s test
 ```
 
 ## Run using docker
