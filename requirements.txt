@@ -6,6 +6,6 @@ idna==3.2
 mccabe==0.6.1
 pycodestyle==2.7.0
 pyflakes==2.3.1
-requests==2.26.0
+requests==2.31.0
 toml==0.10.2
 urllib3==1.26.6
